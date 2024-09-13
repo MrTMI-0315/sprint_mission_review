@@ -4,9 +4,9 @@
 
 ## 2번 : Contact
 
-## 3번 : Votesystem 
+## 3번 : VoteSystem 
 
-## 4번 : Bankaccount
+## 4번 : BankAccount
 
 ## 5번 : EmployeeManager
 
